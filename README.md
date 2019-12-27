@@ -10,3 +10,5 @@ Current configuration:
 * Dual Z-Axis
 
 # Note that this is currently a Work In Progress and I'm still testing and tuning for my printer.
+
+Thanks to Edward Niedziejko and Jens Raab for providing Klipper printer configs to get me started.
