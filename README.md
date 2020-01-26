@@ -6,7 +6,7 @@ My X5S runs Klipper firmware with a Raspberry Pi 3B+ and an SKR V1.3 mainboard. 
 Current configuration:
 * E3D V6 hotend
 * Zesty Nimble V1.1 Extruder
-* Sensorless homing on X & Y
+* Sensorless homing on X & Y & Z
 * Dual Z-Axis
 
 # Note that this is currently a Work In Progress and I'm still testing and tuning for my printer.
